@@ -1,26 +1,28 @@
-# GitHub Explore
+🕸️ Exploración en GitHub
 
-This repository houses all of the community-curated content for GitHub Topics and Collections.
+Este repositorio contiene contenido seleccionado que no es público y para los temas y colecciones de GitHub.que necesiten...
+Primero Pregunten😚
 
-[Topics](https://help.github.com/articles/about-topics/) help you explore repositories in a particular subject area, learn more about that subject, and find projects to contribute to.
+[Temas🤌🏻](xxxxxxxxxxxxx"xxxxxx"xx) te podría ayudar a explorar repositorios sobre un tema específico,😏 aprender más sobre 🫡él y encontrar proyectos a los que contribuir😋
 
-[Collections](https://github.com/collections) help you discover hand-picked repositories, developers, organizations, videos, and articles that share a common theme.
+[Colecciones👌🏿](xxxxxxxxxxxxxxxxxxxxxxxx) te pueden ayudar a descubrir repositorios😘, desarrolladores, organizaciones,👁️‍🗨️ vídeos y artículos seleccionados cuidadosamente 😮‍💨que comparten una temática 🚀común.
 
-If you want to suggest edits to an existing Topic page or Collection, or curate a new one, read our [contributing guide](CONTRIBUTING.md) to get started.
+Si quieres sugerir📍 ediciones a una página de tema o colección existente,😛 o crear una nueva, consulta👽 nuestra [guía de contribución](?????????) para empezar.
 
-## Running tests
+🕸️🕷️ Ejecución de pruebas
 
-There are some lint tests in place to ensure each Topic is formatted in the way we expect. GitHub
-Actions will run the tests automatically. If you want to run the tests yourself locally, you will
-need Ruby and Bundler installed.
+Se han implementado algunas pruebas de 👉🏿lint para garantizar que cada tema tenga el🍕 formato esperado.
+GitHub🫦 Actions ejecutará las pruebas🌱 automáticamente. Si quieres ejecutar las ☝🏿pruebas localmente,🤜🏻
+necesitarás 👈🏻tener instalados Ruby y Bundler.🧘🏼‍♂️
 
-You can run the tests using:
+ Puedes ejecutar las pruebas con:
 
 ```bash
 bundle install
 bundle exec rubocop
 ```
 
-## Licenses
+🕸️🕷️ Licencias
 
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
+El contenido se publica bajo la licencia [CC-BY-4.0](xxxxxxxxxxxxccxcccxxxxxxxx), que te permite usarlo para casi cualquier propósito ✊🏻(pero no te otorga ningún derecho sobre👈🏻 marcas registradas). 👆🏻Consulta [notices](notices.md) para obtener información completa, incluyendo las directrices de atribución,🚬 los términos de contribución y las licencias y permisos de software podrian ser de 
+ter💥ceros.
