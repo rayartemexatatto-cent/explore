@@ -17,10 +17,10 @@ necesitarás 👈🏻tener instalados Ruby y Bundler.🧘🏼‍♂️
 
  Puedes ejecutar las pruebas con:
 
-```bash
+[```]bash
 bundle install
 bundle exec rubocop
-```
+[```]
 
 🕸️🕷️ Licencias
 
